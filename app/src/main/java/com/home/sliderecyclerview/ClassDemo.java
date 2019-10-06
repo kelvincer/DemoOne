@@ -1,6 +1,6 @@
 package com.home.sliderecyclerview;
 
-public class SomeTwo {
+public class ClassDemo {
 
     public void someMethod(){
 
